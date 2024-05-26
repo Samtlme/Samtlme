@@ -1,8 +1,10 @@
+<!--
 ![Header](./assets/header-image.png)
 
 <hr>
 <h3 align="center">Software Development Student💻👨‍💻  |  Cybersecurity enthusiast 🔐👾</h3>
 <hr>
+-->
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
